@@ -36,4 +36,8 @@ I will create a website where people can view into new Eco friendly technologies
 - Javascript 
 
 ## Future work 
-The whole project will be made public soon with a native front-end 
+The whole project will be made public soon with a native front-end.
+
+### Links 
+Contract address - 0x5fb573ac9d5c96aba5d8002cc2b7427cf0260ff9
+link of contract deployed seen on blockscout - https://alfajores-blockscout.celo-testnet.org/tx/0x5c298ff6f0afb7b96c1f6a5d0124bddf1f7ca87c4dcfa83f68cec474fa1c0500/logs
