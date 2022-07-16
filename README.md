@@ -25,4 +25,11 @@ The future is about sustanablilty based technologies and anglorithms and Green D
 
 
 ## How it works 
-I will create a website where people can view into new Eco friendly technologies and upcomming projects ( note - users can also view a project from somewhere else and vote/create a proposal ). 
+I will create a website where people can view into new Eco friendly technologies and upcomming projects ( note - users can also view a project from somewhere else and vote/create a proposal ) and then funding using the common treasury will be up for vote, if there are suffieceint votes then the funding for that project will be executed.
+
+## Tech stack used 
+- Solidity 
+- OpenZeppelin smart contracts 
+- OpenZeppelin Defender 
+- CELO plugin
+
