@@ -34,3 +34,6 @@ I will create a website where people can view into new Eco friendly technologies
 - CELO plugin
 - Typescript
 - Javascript 
+
+## Future work 
+The whole project will be made public soon with a native front-end 
