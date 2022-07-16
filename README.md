@@ -32,4 +32,5 @@ I will create a website where people can view into new Eco friendly technologies
 - OpenZeppelin smart contracts 
 - OpenZeppelin Defender 
 - CELO plugin
-
+- Typescript
+- Javascript 
